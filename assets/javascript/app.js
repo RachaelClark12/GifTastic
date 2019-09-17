@@ -1,6 +1,6 @@
 $(document).ready(function () {
 
-    var topics = ['Cat', 'Dog', 'Giraffe', 'Alpaca', 'Zebra', 'Lion', 'Bear', 'Squirrel', 'Bird'];
+    var topics = ['Cat', 'Dog', 'Giraffe', 'Alpaca', 'Lion', 'Bear', 'Squirrel', 'Bird', 'Whale', 'Penguin'];
 
     function displayGIF() {
         var animal = $(this).attr('data-animal');
